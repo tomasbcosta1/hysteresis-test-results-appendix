@@ -1,0 +1,7 @@
+table_number,source_caption,loading_N,manufacturing_process,stacking_sequence,infill_condition,specimen_id,n_disc,arrangement,infill_thickness_mm,stiffness_kN_per_mm,E_load_J,E_unload_J,E_dissipated_J,E_dissipated_percent,displacement_max_mm
+2,Table 2. Results obtained from hysteresis for loading of 2681N without infill,2681,CM,0/90/0/90,without infill,Pd2-0,2,(),,0.93,3.80,3.21,0.58,15.4,2.96
+2,Table 2. Results obtained from hysteresis for loading of 2681N without infill,2681,CM,0/90/0/90,without infill,Sd4-0,4,()(),,0.43,7.80,6.22,1.58,20.2,5.83
+2,Table 2. Results obtained from hysteresis for loading of 2681N without infill,2681,CM,0/90/0/90,without infill,Pd4-0,4,(()),,2.01,2.09,1.67,0.41,19.9,2.22
+2,Table 2. Results obtained from hysteresis for loading of 2681N without infill,2681,CM,0/90/0/90,without infill,Pd6-0,6,((())),,2.40,1.91,1.51,0.393,20.7,2.46
+2,Table 2. Results obtained from hysteresis for loading of 2681N without infill,2681,CM,0/90/0/90,without infill,Sd6-0,6,()()(),,0.28,11.99,9.56,2.43,20.25,8.88
+2,Table 2. Results obtained from hysteresis for loading of 2681N without infill,2681,CM,0/90/0/90,without infill,Hd8-0,8,(())(()),,0.91,4.55,3.57,0.98,21.5,4.98

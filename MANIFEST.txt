@@ -1,0 +1,12 @@
+CITATION.cff
+LICENSE
+README.md
+appendix/appendix_tables.pdf
+data/all_tables_combined.csv
+data/table_01_VB_0-90-0-90_without_infill.csv
+data/table_02_CM_0-90-0-90_without_infill.csv
+data/table_03_CM_90-0--45-45_without_infill.csv
+data/table_04_VB_0-90-0-90_with_infill.csv
+data/table_05_CM_0-90-0-90_with_infill.csv
+data/table_06_CM_90-0--45-45_with_infill.csv
+docs/variable_description.md

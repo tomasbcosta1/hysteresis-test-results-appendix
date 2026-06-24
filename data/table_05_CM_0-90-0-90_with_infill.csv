@@ -1,0 +1,13 @@
+table_number,source_caption,loading_N,manufacturing_process,stacking_sequence,infill_condition,specimen_id,n_disc,arrangement,infill_thickness_mm,stiffness_kN_per_mm,E_load_J,E_unload_J,E_dissipated_J,E_dissipated_percent,displacement_max_mm
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Pd2-1,2,(|),1,1.93,2.21,1.28,0.93,42.08,1.67
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Pd2-3,2,(|),3,0.63,6.04,2.95,3.09,51.16,4.12
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Pd2-5,2,(|),5,0.22,10.97,3.44,7.53,68.64,7.50
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Sd4-1,4,(|)(|),1,0.80,5.16,3.34,1.82,35.29,4.40
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Sd4-3,4,(|)(|),3,0.33,11.83,6.60,5.23,44.19,8.83
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Sd4-5,4,(|)(|),5,0.32,23.72,9.91,13.82,58.24,18.20
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Pd4-1,4,((|)),1,1.48,2.86,1.81,1.04,36.57,2.71
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Pd4-3,4,((|)),3,1.01,5.22,2.28,2.94,56.32,3.82
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Pd4-5,4,((|)),5,0.32,12.86,3.87,8.99,69.91,8.03
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Pd6-1,6,(((|))),1,2.52,2.12,1.46,0.66,31.18,2.29
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Pd6-3,6,(((|))),3,0.91,4.53,2.37,2.16,47.68,3.97
+5,Table 5. Results obtained from hysteresis for loading of 2681N with infill,2681,CM,0/90/0/90,with infill,Pd6-5,6,(((|))),5,0.37,10.91,3.61,7.30,66.91,8.23

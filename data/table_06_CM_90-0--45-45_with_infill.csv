@@ -1,0 +1,13 @@
+table_number,source_caption,loading_N,manufacturing_process,stacking_sequence,infill_condition,specimen_id,n_disc,arrangement,infill_thickness_mm,stiffness_kN_per_mm,E_load_J,E_unload_J,E_dissipated_J,E_dissipated_percent,displacement_max_mm
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Pd2-1,2,(|),1,2.33,1.76,1.00,0.76,43.18,2.33
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Pd2-3,2,(|),3,0.79,4.72,2.14,2.58,54.66,0.79
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Pd2-5,2,(|),5,0.19,11.56,3.35,8.21,71.02,0.19
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Sd4-1,4,(|)(|),1,0.89,3.98,2.19,1.79,44.97,0.89
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Sd4-3,4,(|)(|),3,0.51,7.33,3.93,3.40,46.38,0.51
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Sd4-5,4,(|)(|),5,0.20,17.34,5.86,11.48,66.21,0.20
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Pd4-1,4,((|)),1,2.99,2.00,1.32,0.68,34.00,2.99
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Pd4-3,4,((|)),3,0.95,4.20,1.95,2.25,53.57,0.95
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Pd4-5,4,((|)),5,0.49,10.03,3.03,7.00,69.79,0.49
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Pd6-1,6,(((|))),1,2.90,2.04,1.40,0.64,31.37,2.90
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Pd6-3,6,(((|))),3,1.08,3.89,2.24,1.65,42.42,1.08
+6,Table 6. Results obtained from hysteresis for loading of 2660N with infill,2660,CM,90/0/-45/45,with infill,Pd6-5,6,(((|))),5,0.47,10.08,3.15,6.93,68.75,0.47
